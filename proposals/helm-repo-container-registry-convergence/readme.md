@@ -10,7 +10,7 @@ The proposal covers the following:
 
 1. [Container Registries are collections of Helm Repositories](./001-repo-registry.md)  
   Evolution of [Docker Distribution](https://github.com/docker/distribution) to support Helm Repositories
-2. [Helm Charts align with registry repositories](./002-chart-registry-repo.md)  
+2. [Helm Charts Align With Registry Repositories](./002-chart-registry-repo.md)  
     Consistent with an image repository, a chart repository is a specific chart, with unique tags representing a versioned history  
 3. [Helm Charts use registry authentication](./003-chart-authentication.md)  
 4. [`helm fetch` becomes `helm pull`](./004-helm-fetch-pull.md)  
